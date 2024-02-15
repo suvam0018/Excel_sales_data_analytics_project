@@ -1,10 +1,10 @@
 # Excel_sales_data_analytics_project
-Vrinda store want to create annual sales report for 2022.So that Vrinda can understand their customers and grow more sales in 2023.
+Vrinda store want to create annual sales report for 2023.So that Vrinda can understand their customers and grow more sales in 2024.
 
 
 
-- Project Title: Vrinda Store Annual Sales Report 2022
-- Objective: Analyze sales data to facilitate strategic decision-making and growth for 2023
+- Project Title: Vrinda Store Annual Sales Report 2023.
+- Objective: Analyze sales data to facilitate strategic decision-making and growth for 2024
 - Key Activities:
     - Data cleaning
     - Data processing
@@ -13,7 +13,7 @@ Vrinda store want to create annual sales report for 2022.So that Vrinda can unde
     - Report generation
 - Outcome:
     - Detailed insights shared with the client
-- Focus: Understanding customer behavior and boosting sales in 2023
+- Focus: Understanding customer behavior and boosting sales in 2024
 
 - INSIGHTS
 
